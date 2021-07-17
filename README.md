@@ -40,8 +40,9 @@ The present dataset consists of two features those being:
   pip3 install matplotlib
 ```
   
-##### 3. Load dataset
+##### 3. Load dataset (exmple usage script)
 ```python
+# Import dependencies
 import pandas as pd
 import matplotlib.pyplot as plt
 
