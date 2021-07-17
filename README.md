@@ -9,11 +9,10 @@ This dataset was compiled by Paraskevas Solomou using data provided by the Burea
 
 The flight delay dataset used [1] was provided by the USA Bureau of Transportation Statistics (BTS) for Flight data. 
 This dataset contains data documenting the performance of domestic flights operated by large air carriers.
-During this project, all data entries from January 1st 1990 until December 31st 2020 were obtained.
-This resulted in a merged dataset with over 150 million data entries each consisting of 7 features resulting in a grand total of 4000 individual data points.
+During this project, all data entries from January 1st 1990 until December 31st 2020 were obtained and compiled in a user-friendly two-dimentional dataset.
 
 BTS defines a delay as any flight which arrives or departs fifteen minutes earlier or later than the scheduled time [See FAQs below]. 
-This dataset also lists the nuber of diversions.
+This dataset also lists the nuber of diversions between January 1st 1990 and December 31st 2020.
 
 ## Dataset Description
 
