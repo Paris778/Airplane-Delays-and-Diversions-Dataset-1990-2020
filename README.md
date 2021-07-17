@@ -1,5 +1,5 @@
 # Airplane-Delays-and-Diversions-Dataset
-A dataset listing the amount of delays per day according to the USA Bureau of Transportation Statistics for every year between January 1st 1990 and December 31st 2020
+A dataset listing the amount of delays or diversions per day according to the USA Bureau of Transportation Statistics[1] for every year between January 1st 1990 and December 31st 2020
 
 ## Dataset Aim
 
@@ -12,9 +12,8 @@ This dataset contains data documenting the performance of domestic flights opera
 During this project, all data entries from January 1st 1990 until December 31st 2020 were obtained.
 This resulted in a merged dataset with over 150 million data entries each consisting of 7 features resulting in a grand total of 4000 individual data points.
 
-BTS defines a delay as any flight which arrives or departs fifteen minutes earlier or later than the scheduled time. 
+BTS defines a delay as any flight which arrives or departs fifteen minutes earlier or later than the scheduled time [See FAQs below]. 
 This dataset also lists the nuber of diversions.
-
 
 ## Dataset Description
 
