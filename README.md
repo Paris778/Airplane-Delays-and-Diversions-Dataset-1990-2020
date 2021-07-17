@@ -22,12 +22,11 @@ The present dataset consists of two features those being:
 
 - DATE         | date format (yyyy/mm/dd)
 - number_of_delays | integer 
-- 
-![Alt text](https://github.com/Paris778/Retrograde-Mercury-Dates-Dataset-1990-2020/blob/main/screenshots/dataset_example.JPG "Example Data")
+
+![Alt text](https://github.com/Paris778/Airplane-Delays-and-Diversions-Dataset/blob/main/Screenshots/Capture2.JPG "Example Data")
   
 
-##### Graphical Representation 1994
-![Alt text](https://github.com/Paris778/Retrograde-Mercury-Dates-Dataset-1990-2020/blob/main/screenshots/2018_mercury.png "Graph")
+
 ## Usage Example (Python 3)
 
 ##### 1. Download Dataset
@@ -61,6 +60,12 @@ df.plot.bar(x = 'DATE', y = 'num_of_arrival_and_departure_delays', rot = 0)
 plt.show()
 ```
 ## 
+##### Graphical Representation 1994
+![Alt text](https://github.com/Paris778/Airplane-Delays-and-Diversions-Dataset/blob/main/Screenshots/Capture.JPG "Graph")
+
+## FAQs 
+
+https://www.bts.dot.gov/explore-topics-and-geography/topics/airline-time-performance-and-causes-flight-delays
 
 #### References
 
