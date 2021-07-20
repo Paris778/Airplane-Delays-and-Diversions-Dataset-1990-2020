@@ -24,7 +24,6 @@ The present dataset consists of two features those being:
 ![Alt text](https://github.com/Paris778/Airplane-Delays-and-Diversions-Dataset/blob/main/Screenshots/Capture2.JPG "Example Data")
   
 
-
 ## Usage Example (Python 3)
 
 ##### 1. Download Dataset
