@@ -6,7 +6,6 @@ A dataset listing the amount of delays or diversions per day according to the US
 This dataset was compiled by Paraskevas Solomou using data provided by the Bureau of Transportation Statistics, in order to encourage Statistics and Machine Learning related research. 
 
 
-
 ## Dataset Overview
 
 The flight delay dataset used [1] was provided by the USA Bureau of Transportation Statistics (BTS) for Flight data. 
