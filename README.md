@@ -7,7 +7,6 @@ This dataset was compiled by Paraskevas Solomou using data provided by the Burea
 
 ## Dataset Overview
 
-
 The flight delay dataset used [1] was provided by the USA Bureau of Transportation Statistics (BTS) for Flight data. 
 This dataset contains data documenting the performance of domestic flights operated by large air carriers.
 During this project, all data entries from January 1st 1990 until December 31st 2020 were obtained and compiled in a user-friendly two-dimentional dataset.
