@@ -3,7 +3,6 @@ A dataset listing the amount of delays or diversions per day according to the US
 
 ## Dataset Aim
 
-
 This dataset was compiled by Paraskevas Solomou using data provided by the Bureau of Transportation Statistics, in order to encourage Statistics and Machine Learning related research. 
 
 ## Dataset Overview
