@@ -58,6 +58,7 @@ print(df.head())
 df.plot.bar(x = 'DATE', y = 'num_of_arrival_and_departure_delays', rot = 0)
 plt.show()
 ```
+
 ## 
 ##### Graphical Representation 1994
 ![Alt text](https://github.com/Paris778/Airplane-Delays-and-Diversions-Dataset/blob/main/Screenshots/Capture.JPG "Graph")
